@@ -1,0 +1,1 @@
+Dont be dumb and overfill the API because it will go on my end. Dont make bots to repeatly use my API key and do bad stuff.
