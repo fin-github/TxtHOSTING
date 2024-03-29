@@ -7,6 +7,8 @@
 
     "vote_ssu_channel_id": 1211112867601059844,
     "vote_ssd_channel_id": 1211112867601059844,
+    
+    "say_im_online": false,
 
     "main_color": [255,0,100],
 
