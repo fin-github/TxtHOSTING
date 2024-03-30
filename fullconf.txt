@@ -2,11 +2,11 @@
     "server_id": 1211112867009404959,
     "bot_channel_id": 1211112869094096981,
 
-    "ssu_channel_id": 1211112867601059844,
-    "ssd_channel_id": 1211112867601059844,
+    "ssu_channel_id": 1221444987091288125,
+    "ssd_channel_id": 1221444987091288125,
 
-    "vote_ssu_channel_id": 1211112867601059844,
-    "vote_ssd_channel_id": 1211112867601059844,
+    "vote_ssu_channel_id": 1221444987091288125,
+    "vote_ssd_channel_id": 1221444987091288125,
     
     "say_im_online": false,
 
